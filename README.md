@@ -5,7 +5,7 @@ Replication of:
 
 # Data
 
-[Lakes Database (http://doi:10.5061/dryad.75s9s)](datadryad.org/resource/doi:10.5061/dryad.75s9s)
+[Lakes Database (doi:10.5061/dryad.75s9s)](http://datadryad.org/resource/doi:10.5061/dryad.75s9s)
 
 [HUC Shapefile](http://water.usgs.gov/GIS/dsdl/huc250k_shp.zip)
 
